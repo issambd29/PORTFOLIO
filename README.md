@@ -1,2 +1,2 @@
-# remember
-This try to remember the git bush and the git hub
+# PORTFOLIO
+This is my first creat to repositry in github
